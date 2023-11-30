@@ -1,6 +1,6 @@
 <div align="center">
   <a href='https://uinnovate.netlify.app/'>
-    <img src='https://i.imgur.com/l6na7U6.png' width="200" height="400">
+    <img src='https://i.imgur.com/l6na7U6.png' width="400" height="300">
   </a>
 </div>
 
