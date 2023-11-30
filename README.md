@@ -5,7 +5,6 @@
 </div>
 
 <div align='center'>
-<br/>
 
 **PostGOAT**  is an innovative solution effortlessly generates and deploys the entire stack on your preferred cloud service.
 
