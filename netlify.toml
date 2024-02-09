@@ -1,2 +1,2 @@
 [build]
-  publish = "PostGoatv1"  # Replace "HTML" with the actual folder name
+  publish = "HTML"  # Replace "HTML" with the actual folder name
