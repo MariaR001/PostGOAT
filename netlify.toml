@@ -1,2 +1,3 @@
 [build]
   publish = "HTML"  # Replace "HTML" with the actual folder name
+  publish = "Postgoat Images"
